@@ -1,4 +1,4 @@
 Ingredients:
-- a slice of bread (preferably whole grain)
-- butter (preferably salted)
-- strawberry jam 
+- sliced bread 
+- dairy butter 
+- 'Bon Maman" strawberry jam 
