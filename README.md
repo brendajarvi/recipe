@@ -15,3 +15,5 @@ List:
 4. bananas
 
 **bolded text**
+
+*italicized text*
