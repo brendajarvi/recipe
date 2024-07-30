@@ -17,3 +17,5 @@ List:
 **bolded text**
 
 *italicized text*
+
+ ![Recipe Image](downloads/recipe/recipe.jpg)
