@@ -1,5 +1,3 @@
-# Level 1 Header
-### Level 3 Header
 ### This is a LOCAL change :)
 # Get ready to eat the best breakfast of your life!
 # Although this breakfast uses simple ingredients, it is tasty and nutricious!
@@ -7,13 +5,4 @@
 last line changed locally
 ### This is a LOCAL change :)
 
-
-List:
-1. oranges
-2. apples
-3. strawberries
-4. bananas
-
-*italicized text*
-
- ![Recipe Image](downloads/recipe/recipe.jpg)
+# Level 1 Header
