@@ -7,10 +7,11 @@ last line changed locally
 
 # Level 1 Header
 ### Level 3 Header
-**bolded text**
 
 List:
 1. oranges
 2. apples
 3. strawberries
 4. bananas
+
+**bolded text**
